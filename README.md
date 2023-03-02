@@ -4,7 +4,7 @@ Welcome to Professional Practice 1.
 * The course material and useful links will be added here to help students in their learning journey.
 
 # Weekly Course Content
-Weekly course contents, activities and resources will be uploaded under its section.
+Weekly course contents, activities and resources will be uploaded under its corresponding section.
 
 # Useful Links
 
