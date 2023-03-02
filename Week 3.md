@@ -23,7 +23,11 @@ Share your ideas with class on Mentimeter using one of these two linkns dependin
 
 
 ## Case Scenario 1
+Read through the case scenario here:
+
 Salmon, P. M., Hulme, A., Read, G. J., Thompson, J., & McClure, R. (2017). Rethinking the causes of road trauma: society’s problems must share the blame. In Conversation. Conversation Media Group. [[Access Here]](https://theconversation.com/rethinking-the-causes-of-road-trauma-societys-problems-must-share-the-blame-82383)
+
+Based on this scenario, answer the following questions in your group:
 1. Identify and justify all systems involved and the feedback loops between different systems in the example.
 2. What are the systems involved?
 3. How are they connected?
