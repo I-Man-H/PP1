@@ -52,6 +52,9 @@ Discuss in your group and share your ideas with class on Padlet using one of the
 2. Work on Your Career Episode Piece 1 (Due 17 March 11 PM)
 3. Decide about your Group Project topic.
 
+## Useful Links
+* [System Thinking!](https://www.youtube.com/watch?v=GPW0j2Bo_eY)
+* [System Thinking 101 - TEDx](https://www.youtube.com/watch?v=bNASybOzruM)
 
 ## Supplementary Resources 
 * Ackoff, R. L. (1993). From mechanistic to social systemic thinking. Pegasus Communications, Incorporated. [[Access Here]](https://thesystemsthinker.com/wp-content/uploads/pdfs/220711pk.pdf)
