@@ -6,12 +6,6 @@
 * Browne, C. A. (2020), Towards defining the systems habits of a ‘primed’ student engineer. 30th Annual INCOSE International Symposium - System Engineering, 18-23 July 2020. Cape Town, South Africa. [available on the Wattle site] 
 * Salmon, P. M., Hulme, A., Read, G. J., Thompson, J., & McClure, R. (2017). Rethinking the causes of road trauma: society’s problems must share the blame. In Conversation. Conversation Media Group. [[Access Here]](https://theconversation.com/rethinking-the-causes-of-road-trauma-societys-problems-must-share-the-blame-82383)
 
-## Think About These Questions
-1. What is a system? What is feedback?
-2. How things outside your boundary area affect things within (think about a project you are working on)?
-3. What are those things? How do they drive change?
-4. How can you show the connections between different systems involved in your project? 
-
 ## Introduction
 1. What is System Thinking?
 2. What is Analytic Thinking?
@@ -20,6 +14,10 @@
 Share your ideas with class on Mentimeter using one of these two linkns depending on your Tutorial Session
 1. [T03 Click Here](https://www.menti.com/4vzfo94tie)
 2. [T04 Click Here](https://www.menti.com/xpcpkv3air)
+
+## Group Discussion
+1. How things outside your boundary area affect things within (think about a project you are working on)?
+2. How can you show the connections between different systems involved in your project? 
 
 
 ## Case Scenario 1
