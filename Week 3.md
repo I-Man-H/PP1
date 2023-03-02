@@ -62,3 +62,5 @@ Discuss in your group and share your ideas with class on Padlet using one of the
 * Goodman, M. (1997). Systems thinking: What, why, when, where, and how. The systems thinker, 8(2), 5-7. [[Access Here]](https://thesystemsthinker.com/wp-content/uploads/pdfs/080202pk.pdf)
 * Ollhof, J. Walcheski M. (2006) Making the Jump to Systems Thinking. The Systems Thinker. 2018. 8(2), 9-11. [[Access Here]](https://thesystemsthinker.com/wp-content/uploads/pdfs/170502pk.pdf)
 
+## Discussion Results
+Your summary of discussions will be uploaded here.
