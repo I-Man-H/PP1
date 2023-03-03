@@ -23,6 +23,11 @@ Weekly course contents, activities and resources will be uploaded under its corr
 ## Marking Rubric
 [Marking Rubric](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2805673) for Career Episode Pieces, Group Project, Presentation and Toolkit can be found on Wattle.
 
+## Group Project Topics
+1. Remote-control signalling in Carmichael coalmine [see [1](http://eisdocs.dsdip.qld.gov.au/Carmichael%20Coal%20Mine%20and%20Rail/EIS/EIS/Project%20Wide/02-project-description-project-wide.pdf), [2](https://www.environment.gov.au/system/files/pages/cb8a9e41-eba5-47a4-8b72-154d0a5a6956/files/carmichael-faqs.pdf), [3](https://www.theguardian.com/business/2020/jan/13/adani-coalmine-siemens-ceo-has-empathy-for-environment-but-will-honour-contract)]
+2. Lithium mining in Australia for electric cars and renewable energy [see [1](https://www.abc.net.au/news/2021-07-29/australian-miners-powering-global-electrification/100318108), [2](https://www.theguardian.com/australia-news/2020/sep/10/how-australias-white-gold-could-power-the-global-electric-vehicle-revolution), [3](file:///C:/Users/u5108131/Downloads/energies-15-07997-v2.pdf)]
+3. OpenAI’s language generator ChatGPT [see [1](https://reporter.anu.edu.au/all-stories/should-we-be-worried-about-chatgpt), [2](https://www.researchgate.net/publication/368752080_ChatGPT_is_the_answer_to_what_problem), [3](https://www.researchgate.net/publication/368752270_ChatGPT's_Impact_on_Academia_A_Canary_in_the_Coalmine_of_a_Rapidly_Changing_Landscape)]
+
 ## Code of Conduct
 * Engineers Australia (EA) - [Code of Ethics and Guidelines on Professional Conduct](https://www.engineersaustralia.org.au/sites/default/files/2022-08/code-ethics-guidelines-professional-conduct-2022.pdf)
 * Australian Computer Society (ACS) - [ACS Code of Professional Conduct](https://www.acs.org.au/content/dam/acs/rules-and-regulations/Code-of-Professional-Conduct_v2.1.pdf)
