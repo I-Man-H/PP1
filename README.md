@@ -12,11 +12,13 @@ Weekly course contents, activities and resources will be uploaded under its corr
 ## Important Deadlines
 1. Career Episode Checklist: 10 March 2023 - 23:00
 2. Career Episode Piece 1: 17 March 2023 - 23:00
-3. Career Episode Piece 2: 12 May 2023 - 23:00
-4. Group Presentation: 17 May 2023 - During Tutorial Time
-5. Career Episode Piece 3: 26 May 2023 - 23:00
-6. Group Project Report: 26 May 2023
-6. Toolkit Portfolio: 29 May 2023
+3. Career Episode Piece 2: 31 March 2023 - 23:00
+4. Career Episode Piece 2: 12 May 2023 - 23:00
+5. Group Presentation: 17 May 2023 - During Tutorial Time
+6. Career Episode Piece 3: 26 May 2023 - 23:00
+7. Group Project Report: 26 May 2023 - 23:00
+8. Toolkit Portfolio: 29 May 2023
+9. Reflection and Peer Assessment: 30 May 2023
 
 ## Marking Rubric
 [Marking Rubric](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2805673) for Career Episode Pieces, Group Project, Presentation and Toolkit can be found on Wattle.
