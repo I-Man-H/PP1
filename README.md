@@ -14,7 +14,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 2. Career Episode Piece 1: 17 March 2023 - 23:00
 3. Career Episode Piece 2: 31 March 2023 - 23:00
 4. Career Episode Piece 2: 12 May 2023 - 23:00
-5. Group Presentation: 17 May 2023 - During Tutorial Time
+5. Group Presentation: 17 May 2023 - During Tutorial on Week 11
 6. Career Episode Piece 3: 26 May 2023 - 23:00
 7. Group Project Report: 26 May 2023 - 23:00
 8. Toolkit Portfolio: 29 May 2023 - 23:00
