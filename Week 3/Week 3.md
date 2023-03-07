@@ -50,7 +50,8 @@ Discuss in your group and share your ideas with class on Padlet using one of the
 ## To Do List
 1. Submit you Career Episode Checklist (Due 10 March 11 PM)
 2. Work on Your Career Episode Piece 1 (Due 17 March 11 PM)
-3. Decide about your Group Project topic.
+3. Watch the recording on how to write assignments (Access [here](https://echo360.net.au/lesson/c61e0114-ef17-404d-956f-90a442cd630c/classroom#sortDirection=desc)).
+4. Decide about your Group Project topic.
 
 ## Useful Links
 * [System Thinking!](https://www.youtube.com/watch?v=GPW0j2Bo_eY)
