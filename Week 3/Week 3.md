@@ -25,7 +25,7 @@ Share your ideas with class on Mentimeter using one of these two linkns dependin
 2. How can you show the connections between different systems involved in your project? 
 
 
-## Case Scenario 1
+### Case Scenario 1
 Read through the case scenario here:
 
 Salmon, P. M., Hulme, A., Read, G. J., Thompson, J., & McClure, R. (2017). Rethinking the causes of road trauma: society’s problems must share the blame. In Conversation. Conversation Media Group. [[Access Here]](https://theconversation.com/rethinking-the-causes-of-road-trauma-societys-problems-must-share-the-blame-82383)
@@ -40,7 +40,7 @@ Discuss in your group and share your ideas with class on Padlet using one of the
 1. [T03 Click Here](https://padlet.com/imanhosseini/SystemThinkingT03)
 2. [T04 Click Here](https://padlet.com/imanhosseini/SystemThinkingT04)
 
-## Case Scenario 2
+### Case Scenario 2
 COVID-19 Problem At ANU
 1. Identify and justify all systems involved and the feedback loops between different systems (education, health, immigration, etc)
 2. What are the systems involved?
