@@ -7,13 +7,17 @@
 * Salmon, P. M., Hulme, A., Read, G. J., Thompson, J., & McClure, R. (2017). Rethinking the causes of road trauma: society’s problems must share the blame. In Conversation. Conversation Media Group. [[Access Here]](https://theconversation.com/rethinking-the-causes-of-road-trauma-societys-problems-must-share-the-blame-82383)
 
 ## Introduction
-1. What is System Thinking?
-2. What is Analytic Thinking?
-3. What are the differences between Analytic Thinking and System Thinking?
-
+What is System Thinking?
 Share your ideas with class on Mentimeter using one of these two linkns depending on your Tutorial Session
 1. [T03 Click Here](https://www.menti.com/4vzfo94tie)
 2. [T04 Click Here](https://www.menti.com/xpcpkv3air)
+
+
+## Analytic Thinking vs. System Thinking
+1. What is Analytic Thinking?
+2. What are the differences between Analytic Thinking and System Thinking?
+3. What are some examples of each approach?
+
 
 ## Group Discussion
 1. How things outside your boundary area affect things within (think about a project you are working on)?
