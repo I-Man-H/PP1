@@ -8,6 +8,7 @@
 
 ## Introduction
 What is System Thinking?
+
 Share your ideas with class on Mentimeter using one of these two linkns depending on your Tutorial Session
 1. [T03 Click Here](https://www.menti.com/4vzfo94tie)
 2. [T04 Click Here](https://www.menti.com/xpcpkv3air)
