@@ -69,5 +69,7 @@ Discuss in your group and share your ideas with class on Padlet using one of the
 * Ollhof, J. Walcheski M. (2006) Making the Jump to Systems Thinking. The Systems Thinker. 2018. 8(2), 9-11. [[Access Here]](https://thesystemsthinker.com/wp-content/uploads/pdfs/170502pk.pdf)
 
 ## Discussion Results
-Your summary of discussions will be uploaded [here]()
+The summary of your discussions can be access below:
+* [System Thinking T03](https://github.com/I-Man-H/PP1/blob/main/Week%203/System%20Thinking%20T03.pdf)
+* [System Thinking T04]()
 
