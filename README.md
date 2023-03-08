@@ -8,6 +8,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 1. [Week 1](./Week 1.md)
 2. [Week 2](./Week 2.md)
 3. [Week 3](./Week 3/Week 3.md)
+4. [Week 4](./Week 4/Week 4.md)
 
 ## Important Deadlines
 1. Career Episode Checklist: 10 March 2023 - 23:00
