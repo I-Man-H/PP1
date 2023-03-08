@@ -71,5 +71,5 @@ Discuss in your group and share your ideas with class on Padlet using one of the
 ## Discussion Results
 The summary of your discussions can be access below:
 * [System Thinking T03](https://github.com/I-Man-H/PP1/blob/main/Week%203/System%20Thinking%20T03.pdf)
-* [System Thinking T04]()
+* [System Thinking T04](https://github.com/I-Man-H/PP1/blob/main/Week%203/System%20Thinking%20T04.pdf)
 
