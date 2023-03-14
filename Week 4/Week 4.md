@@ -16,6 +16,7 @@ Click on the link below to access this lesson:
 [Writing Technical Reports](https://wattlecourses.anu.edu.au/mod/lesson/view.php?id=2805696)
 
 After finishing this lesson, click on the link below to attempt the quiz (it is **not** weighted):
+
 [Quiz 3](https://wattlecourses.anu.edu.au/mod/quiz/view.php?id=2805697)
 
 ## Lesson 4: Reflective Writing
@@ -23,4 +24,5 @@ Click on the link below to access this lesson:
 [Reflective Writing](https://wattlecourses.anu.edu.au/mod/lesson/view.php?id=2805698)
 
 After finishing this lesson, click on the link below to attempt the quiz (it is **not** weighted):
+
 [Quiz 4](https://wattlecourses.anu.edu.au/mod/quiz/view.php?id=2805699)
