@@ -16,7 +16,7 @@ Click on the link below to access this lesson:
 ## Lesson 2: Improving Your Writing Using Turnitin
 Click on the link below to access this lesson:
 
-[Improving Your Writing Using Turnitin](./Lesson 1.md)
+[Improving Your Writing Using Turnitin](./Lesson 2.md)
 
 ## Lesson 3: Writing Technical Reports
 Click on the link below to access this lesson:
