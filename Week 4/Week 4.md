@@ -3,7 +3,7 @@
 ## Lesson 1: Referencing, Paraphrasing and Summarising overview
 Click on the link below to access this lesson:
 
-[Referencing, Paraphrasing and Summarising](./Week 4/Lesson 1.md)
+[Referencing, Paraphrasing and Summarising](./Lesson 1.md)
 
 ### Useful Links
 
@@ -16,7 +16,7 @@ Click on the link below to access this lesson:
 ## Lesson 2: Improving Your Writing Using Turnitin
 Click on the link below to access this lesson:
 
-[Improving Your Writing Using Turnitin](./Week 4/Lesson 1.md)
+[Improving Your Writing Using Turnitin](./Lesson 1.md)
 
 ## Lesson 3: Writing Technical Reports
 Click on the link below to access this lesson:
