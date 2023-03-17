@@ -3,7 +3,7 @@
 ## Lesson 1: Referencing, Paraphrasing and Summarising overview
 Click on the link below to access this lesson:
 
-[Referencing, Paraphrasing and Summarising](https://github.com/I-Man-H/PP1/blob/main/Week%204/Lesson%201.md)
+[Referencing, Paraphrasing and Summarising](./Week 4/Lesson 1.md)
 
 ### Useful Links
 
@@ -11,12 +11,12 @@ Click on the link below to access this lesson:
 
 2. [ANU Academic Skills](https://academicskills.anu.edu.au/)
 
-3. [Monash Citing and Referencing](https://guides.lib.monash.edu/citing-referencing
+3. [Monash Citing and Referencing](https://guides.lib.monash.edu/citing-referencing)
 
 ## Lesson 2: Improving Your Writing Using Turnitin
 Click on the link below to access this lesson:
 
-[Improving Your Writing Using Turnitin](https://github.com/I-Man-H/PP1/blob/main/Week%204/Lesson%202.md)
+[Improving Your Writing Using Turnitin](./Week 4/Lesson 1.md)
 
 ## Lesson 3: Writing Technical Reports
 Click on the link below to access this lesson:
