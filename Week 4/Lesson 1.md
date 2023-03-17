@@ -67,11 +67,18 @@ Footnotes
 
 Here is an example that uses footnotes, using the Oxford style of referencing. Notice how in the body of the assignment there are superscript numbers that match to the citations that appear at the bottom of the page. 
 
+<img width="703" alt="Screen Shot 2023-03-17 at 1 08 21 pm" src="https://user-images.githubusercontent.com/125527438/225793852-7c70db57-5a6a-43cc-8c58-cf81a7fe0adb.png">
+
+
+
 In text citations
 
 Here is an example that uses in text citations, using a Harvard style of referencing.
 
 Notice how in the first two citations, because the student gives the authors' surnames in the sentence, the brackets only need to contain the publication year. Also notice how the third example gives the authors' names (because they were not given in the sentence) and a page number because they are providing a quote. 
+
+| The work of Amelung and Nicholls (2014) shows that climate change will have a drastic effect on tourism in Australia. Unlike Smith’s (1995) denial of impact, others argue that 'climatic conditions are projected to decline even further' in coming years (Amelung & Nicholls 2014, p. 238). |
+| -- |
 
 #### Part 2: The reference list
 As with the rules about referencing in the body of your work, the way you reference at the end of your work is determined by which referencing style guide you use. Usually at the end of your work, you need to provide a reference list, which is a list of all the sources you referred to in the body of your work. Your lecturer may ask you to provide a bibliography, which is a list of all the sources you consulted in the course of studying for the assignment, including the ones you did not refer to in the assignment body.
