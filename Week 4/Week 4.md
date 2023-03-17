@@ -16,7 +16,7 @@ Click on the link below to access this lesson:
 ## Lesson 2: Improving Your Writing Using Turnitin
 Click on the link below to access this lesson:
 
-[Improving Your Writing Using Turnitin](https://wattlecourses.anu.edu.au/mod/lesson/view.php?id=2805694)
+[Improving Your Writing Using Turnitin](https://github.com/I-Man-H/PP1/blob/main/Week%204/Lesson%202.md)
 
 ## Lesson 3: Writing Technical Reports
 Click on the link below to access this lesson:
