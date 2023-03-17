@@ -3,7 +3,7 @@
 ## Lesson 1: Referencing, Paraphrasing and Summarising overview
 Click on the link below to access this lesson:
 
-[Referencing, Paraphrasing and Summarising](https://wattlecourses.anu.edu.au/mod/lesson/view.php?id=2805693)
+[Referencing, Paraphrasing and Summarising](https://github.com/I-Man-H/PP1/blob/main/Week%204/Lesson%201.md)
 
 ### Useful Links
 
@@ -11,7 +11,7 @@ Click on the link below to access this lesson:
 
 2. [ANU Academic Skills](https://academicskills.anu.edu.au/)
 
-3. [Monash Citing and Referencing](https://guides.lib.monash.edu/citing-referencing/)
+3. [Monash Citing and Referencing](https://guides.lib.monash.edu/citing-referencing
 
 ## Lesson 2: Improving Your Writing Using Turnitin
 Click on the link below to access this lesson:
