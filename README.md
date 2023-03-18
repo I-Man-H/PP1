@@ -12,8 +12,8 @@ Weekly course contents, activities and resources will be uploaded under its corr
 5. [Week 5](./Week 5/Week 5.md)
 
 ## Important Deadlines
-1. Career Episode Checklist: 10 March 2023 - 23:00 :heavy_check_mark:
-2. Career Episode Piece 1: 17 March 2023 - 23:00 :heavy_check_mark:
+1. Career Episode Checklist: 10 March 2023 - 23:00 ✔️
+2. Career Episode Piece 1: 17 March 2023 - 23:00 ✔️
 3. Career Episode Piece 2: 31 March 2023 - 23:00  🔲
 4. Career Episode Piece 2: 12 May 2023 - 23:00  🔲
 5. Group Presentation: 17 May 2023 - During Tutorial on Week 11   🔲
