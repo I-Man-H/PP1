@@ -2,6 +2,8 @@
 
 ## Key Resources
   * Reed, Mark S., et al. (2009). Who's in and why? A typology of stakeholder analysis methods for natural resource management. Journal of environmental management 90.5: 1933-1949. \[[Link](https://www.sciencedirect.com/science/article/pii/S0301479709000024)\]
+
+
 ## Learning Outcome:
 
   * Using ecosystem mapping as an approach to move beyond technical systems and see all social and environmental systems involved.
