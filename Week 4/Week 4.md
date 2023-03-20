@@ -1,5 +1,9 @@
 # Week 4: Writing Effectively
 
+## Quote of the Day
+**“There should be no boundaries to human endeavour. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there’s life, there is hope.”** 
+The Theory of Everything
+
 ## Lesson 1: Referencing, Paraphrasing and Summarising overview
 Click on the link below to access this lesson:
 
