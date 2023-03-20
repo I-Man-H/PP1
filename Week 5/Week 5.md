@@ -1,5 +1,9 @@
 # Week 5: Mapping The Ecosystem
 
+## Quote of the Day
+**“Don’t ever let somebody tell you you can’t do something, not even me. Alright? You dream, you gotta protect it. People can’t do something themselves, they wanna tell you you can’t do it. If you want something, go get it. Period.”** 
+The Pursuit of Happyness
+
 ## Key Resources
   * Reed, Mark S., et al. (2009). Who's in and why? A typology of stakeholder analysis methods for natural resource management. Journal of environmental management 90.5: 1933-1949. \[[Link](https://www.sciencedirect.com/science/article/pii/S0301479709000024)\]
 
