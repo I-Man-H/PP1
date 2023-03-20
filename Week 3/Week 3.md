@@ -1,6 +1,10 @@
 # Week 3 - System Thinking
 <img width="467" alt="Screen Shot 2023-03-03 at 4 05 47 am" src="https://user-images.githubusercontent.com/125527438/222500607-fef62132-305b-47ec-806f-40b496a237c1.png">
 
+## Quote of the Day
+**“You’ll have bad times, but it’ll always wake you up to the good stuff you weren’t paying attention to.”**
+Good Will Hunting
+
 ## Key Resources
 * Kim, D. H. (1999). Introduction to systems thinking (Vol. 16). Waltham, MA: Pegasus Communications. [[Access Here]](https://static1.squarespace.com/static/535849dae4b0f67f52ae0568/t/5e42d6fbecf987525cb25dfc/1581438716299/Introduction+to+Systems+Thinking.pdf)
 * Browne, C. A. (2020), Towards defining the systems habits of a ‘primed’ student engineer. 30th Annual INCOSE International Symposium - System Engineering, 18-23 July 2020. Cape Town, South Africa. [available on the Wattle site] 
