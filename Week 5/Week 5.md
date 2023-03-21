@@ -63,7 +63,14 @@ You may think of the following questions:
 3. Try to apply ecosystem mapping to your project. 
 
 
-## Useful Links
+## Stakeholder Analysis
+
+ * Influence-Interest Diagram
+<img width="428" alt="Screen Shot 2023-03-22 at 10 29 03 am" src="https://user-images.githubusercontent.com/125527438/226764506-14c55f9a-9d42-4b15-aa71-7651313adbe4.png">
+
+ * Rainbow Diagram
+<img width="634" alt="Screen Shot 2023-03-22 at 10 30 17 am" src="https://user-images.githubusercontent.com/125527438/226764645-3b60a1bc-a392-4a78-b478-712e1678b46e.png">
+
 
 
 
