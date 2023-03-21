@@ -37,7 +37,7 @@ Imagine you work for an Environmental NGO which aims to limit the environmental 
 Discuss this in your group for about 20 minutes. Share your group discussion results/ideas in Padlet. Make sure to include the name of the scenario in the subject.
 
   1. [T03 Click Here](https://anu.padlet.org/u6554505/mapping-the-ecosystem-bp5m4d1vqj6hk8cq)
-  2. [T04 Click Here]()
+  2. [T04 Click Here](https://anu.padlet.org/u6554505/t04-mapping-the-ecosystem-nzia3m9xvkzip9yl)
 
 
 ### Case Scenario 2: COVID-19 Problem At ANU
@@ -54,7 +54,7 @@ You may think of the following questions:
  Discuss this in your group for about 20 minutes. Share your group discussion results/ideas in Padlet. Make sure to include the name of the scenario in the subject.
 
   1. [T03 Click Here](https://anu.padlet.org/u6554505/mapping-the-ecosystem-bp5m4d1vqj6hk8cq)
-  2. [T04 Click Here]()
+  2. [T04 Click Here](https://anu.padlet.org/u6554505/t04-mapping-the-ecosystem-nzia3m9xvkzip9yl)
 
 
 ## To Do List
