@@ -32,7 +32,7 @@ Watch this [video](https://www.smh.com.au/business/companies/adani-is-just-not-g
 Imagine you work for an Environmental NGO which aims to limit the environmental impacts of the Adani Carmichael Mine.
 
   * Use the stakeholder analysis to map and discuss the stakeholders you need to be aware of for this project (i.e. to limit the environmental impacts of the Adani Carmichael Mine).
-  * Use “Rainbow diagram” for classifying stakeholders (Figure 2 in Reed’s paper). Alternatively, you can use the "" diagram.
+  * Use “Rainbow diagram” for classifying stakeholders (Figure 2 in Reed’s paper). Alternatively, you can use the "Influence-Interest" diagram.
 
 Discuss this in your group for about 20 minutes. Share your group discussion results/ideas in Padlet. Make sure to include the name of the scenario in the subject.
 
@@ -43,7 +43,7 @@ Discuss this in your group for about 20 minutes. Share your group discussion res
 ### Case Scenario 2: COVID-19 Problem At ANU
 
   * Identify and justify all stakeholders involved in different systems (education, health, immigration, etc).
-  * Use the "Rainbow diagram” for classifying stakeholders. You can use the "" diagram alternatively.
+  * Use the "Rainbow diagram” for classifying stakeholders. You can use the "Influence-Interest" diagram alternatively.
 
 You may think of the following questions:
 
