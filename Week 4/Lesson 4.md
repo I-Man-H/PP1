@@ -35,7 +35,7 @@ This is just one model of reflection. Use the six steps when writing or reflecti
 
 Watch more about Gibb's reflective cycle here. 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=-gbczr0lRf4)
+[![Watch the video](https://img.youtube.com/vi/-gbczr0lRf4/sddefault.jpg)](https://www.youtube.com/watch?v=-gbczr0lRf4)
 
 
 ## Supplementary resources
