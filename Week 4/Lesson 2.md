@@ -7,7 +7,7 @@ This is a question that can help you to improve your overall writing and assignm
 
 At the end of this module, there is a short quiz of 4 questions to help you test your understanding of how Turnitin can be used to improve assignment structure and authorial voice. 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=SMgAIR6u7eg&t=3s)
+[![Watch the video](https://img.youtube.com/vi/SMgAIR6u7eg/sddefault.jpg)](https://www.youtube.com/watch?v=SMgAIR6u7eg&t=3s)
 
 ## Authorial Voice
 As well as being useful for checking your paraphrasing, quotations, and referencing, Turnitin can be a useful tool to help figure out whether your argument is clear. It can also be used to check whether you have not used enough, or have used too many sources. If you don't use enough sources, then your argument might be weak. If you use too many sources, then your own answer to the question might get lost amidst other people's words. This module provides strategies and tips for how to write clearly and persuasively. 
@@ -198,7 +198,7 @@ Here is another good conclusion, where the author has not used any quotations. N
 In this module we look generally at what Turnitin originality reports are and why the similarity percentage is meaningless on its own. Turnitin is used across ANU colleges so you are likely to encounter it during your studies. You may have used Turnitin in the past, but the way it is used at ANU may be different to your previous experience with it. The primary purpose of Turnitin at ANU is as a tool to help you write with academic integrity. Turnitin works by looking for matches between your text and texts within its database and online.
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=2Im3wlg4yHw&t=1s)
+[![Watch the video](https://img.youtube.com/vi/2Im3wlg4yHw/sddefault.jpg)](https://www.youtube.com/watch?v=2Im3wlg4yHw&t=1s)
 
 ### Turnitin originality report
 When you submit your work to Turnitin, your assignments are checked against a large database of academic publications and other sources in order to find if there are matching text sections. An Originality Report is generated which indicates what percentage of your work is your own and what percentage comes from other sources. Examples of resources checked are:
