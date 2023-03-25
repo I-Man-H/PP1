@@ -86,7 +86,7 @@ As part of your tutorial contribution, I want you to submit at least **one** mee
 
 Please follow these steps:
 1. Create a folder on OneDrive.
-2. Name the folder as "ENGN/COMP6250-T03/T04-Group#-MeetingMinutes
+2. Name the folder as "ENGN/COMP6250-T#/T#-Group#-MeetingMinutes (For example: ENGN6250-T04-Group1-MeetingMinutes)
 3. Share the folder with all of your group memebrs.
 4. Share the folder with me (iman.hosseini@anu.edu.au).
 5. Upload your meeting minute to this folder at least once every two weeks.
