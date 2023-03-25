@@ -4,7 +4,7 @@
 # Quote of the Day
 
 “Why do we Fall? So we can learn to pick ourselves back up.”
-― Batman Begins
+― Christohper Nolan
 
 # Important Announcement
 
