@@ -47,7 +47,7 @@ This survey is completely anonymous.
 
 The questions are focusing on our tutorial sessions specifically.
 
-It will help me to understand what your expectations are from this course, what you like, and what you would like me to do it differently.
+It will help me to understand what your expectations are from this course, what you like, and what you would like me to do differently.
 
 [Anonymous Survey](https://forms.office.com/r/FeY6ufZ8Lu)
 
