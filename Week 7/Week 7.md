@@ -30,6 +30,25 @@ Discuss the following questions for Week 2, Week 3, Week 4, Week 5, and Week 6:
 
 ## Tookit Examples
 
+1. Judgment Call (Microsoft)
+2. Wat-A-Game (IRSTEA, France)
+3. Teaching ethics with games (Harvard Center for Ethics)
+4. Harms Modeling (Microsoft)
+5.  Interactive Stakeholder Analysis App
+6.  Cynefin Lego Game (agile42)
+7. A tool for developing responsible innovation in start-up enterprises
+
+## Landing Page
+
+You can create a landing page using these **_free_** services:
+
+1. [Github](https://github.com/)
+2. [Google Sites](https://sites.google.com/)
+3. [Wix](https://www.wix.com/)
+4. [Weebly](https://www.weebly.com/?lang=en_AU)
+5. [GoDaddy](https://www.godaddy.com/en-au)
+6. [WordPress](https://wordpress.com/)
+7. [Site123](https://www.site123.com/)
 
 
 ## To Do List
