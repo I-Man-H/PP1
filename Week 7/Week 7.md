@@ -30,6 +30,8 @@ Discuss the following questions for Week 2, Week 3, Week 4, Week 5, and Week 6:
 
 ## Tookit Examples
 
+You can look at these [examples](https://wattlecourses.anu.edu.au/mod/resource/view.php?id=2805717) for your inspirations only.
+
 1. Judgment Call (Microsoft)
 2. Wat-A-Game (IRSTEA, France)
 3. Teaching ethics with games (Harvard Center for Ethics)
