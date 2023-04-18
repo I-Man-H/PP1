@@ -14,6 +14,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 4. [Week 4](./Week 4/Week 4.md)
 5. [Week 5](./Week 5/Week 5.md)
 6. [Week 6](./Week 6/Week 6.md)
+7. [Week 7](./Week 7/Week 7.md)
 
 ## Assessments
 1. 4 Career Episode Pieces (35%)
@@ -27,7 +28,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 ## Important Deadlines
 1. Career Episode Checklist: 10 March 2023 - 23:00 ✔️
 2. Career Episode Piece 1: 17 March 2023 - 23:00 ✔️
-3. Career Episode Piece 2: 05 April 2023 - 23:00  🔲
+3. Career Episode Piece 2: 05 April 2023 - 23:00  ✔️
 4. Career Episode Piece 3: 12 May 2023 - 23:00  🔲
 5. Group Presentation: 17 May 2023 - During Tutorial on Week 11   🔲
 6. Toolkit Presentation: 24 May 2023 - During Tutorial on Week 12  🔲
