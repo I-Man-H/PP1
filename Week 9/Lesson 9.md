@@ -112,3 +112,28 @@ This leads to:
 6. What can be done about it?
 7. What options are there?
 8. Which option is best-and why?
+
+
+
+
+# Supplementary readings and resources
+This week's lesson was adapted from the following sources:
+
+Blink 2002, 'Making Ethical Decisions:Process', UC San Diego, viewed 24 January 2020, https://blink.ucsd.edu/finance/accountability/ethics/process.html
+
+Engineers Australia 2020, viewed 24 January 2020, https://www.engineersaustralia.org.au/
+
+Australian Computer Society 2020, viewed 24 January 2020https://www.acs.org.au/
+
+McDermid, D 2015, Ethics in ICT: an Australian perspective. Pearson Higher Education AU.
+
+Simpson, C, Nevile, L & Burmeister, O, 2003, 'Doing ethics: A universal technique in an accessibility context', Australasian Journal of Information Systems, vol. 10, no. 2.
+
+
+To learn more about ethics in Engineering and Computer Science industry, access the following resources :
+
+* Social aspects of technology and science (Techological determinism)
+* The ethical dilemma we face on AI and autonomous tech, Christine Fox (18:47 mins)
+
+[[Watch the video](https://img.youtube.com/vi/3oE88_6jAwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=3oE88_6jAwc)
+
