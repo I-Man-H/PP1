@@ -24,6 +24,10 @@ Ethical decision-making refers to the process of evaluating and choosing among a
 As engineering and computing professionals practitioners, we use our knowledge and skills for the benefit of the community to create solutions for a sustainable future. In doing so, we strive to serve the community ahead of other personal or sectional interests. Ethical choices are not always black and white. Sometimes there are grey areas and this is where a code of ethics and professional conduct will be your best resource for solving these dilemmas. Watch Code of Conduct and Ethics for Employees by KnowledgeCity to learn more (2:25 mins).
 
 
+[![Watch the video](https://img.youtube.com/vi/-gRLHf6ZBM4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-gRLHf6ZBM4)
+
+
+
 # Engineering code of ethics
 Engineers Australia (EA) Code of Ethics defines the values and principles that shape the decisions engineers make in engineering practice. The related Guidelines on Professional Conduct provide a framework for engineers to use when exercising their judgment in the practice of engineering. The Guidelines are not intended to be, nor should they be interpreted as, a full or exhaustive list of the situations and circumstances which may comprise compliance and non compliance with the Code of Ethics. [Read the EA Code of Ethics here](https://www.engineersaustralia.org.au/ethics). In summary, 
 
