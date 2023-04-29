@@ -25,7 +25,7 @@ As engineering and computing professionals practitioners, we use our knowledge a
 
 
 # Engineering code of ethics
-Engineers Australia (EA) Code of Ethics defines the values and principles that shape the decisions engineers make in engineering practice. The related Guidelines on Professional Conduct provide a framework for engineers to use when exercising their judgment in the practice of engineering. The Guidelines are not intended to be, nor should they be interpreted as, a full or exhaustive list of the situations and circumstances which may comprise compliance and non compliance with the Code of Ethics. Read the EA Code of Ethics here. In summary, 
+Engineers Australia (EA) Code of Ethics defines the values and principles that shape the decisions engineers make in engineering practice. The related Guidelines on Professional Conduct provide a framework for engineers to use when exercising their judgment in the practice of engineering. The Guidelines are not intended to be, nor should they be interpreted as, a full or exhaustive list of the situations and circumstances which may comprise compliance and non compliance with the Code of Ethics. [Read the EA Code of Ethics here](https://www.engineersaustralia.org.au/ethics). In summary, 
 
 In the course of engineering practice, you must: 
 
@@ -62,4 +62,51 @@ In the course of engineering practice, you must:
   4.3 Balance the needs of the present with the needs of future generations
   
   
+# Computing code of ethics
+As computer science professionals, we use our knowledge and skills for the benefit of the community to create hardware and software solutions for a sustainable future. In doing so, we strive to serve the community ahead of other personal or sectional interests. The Australian Computer Society (ACS) Code of Professional Conduct defines the values and principles that shape the decisions professionals make in computer science profession. The related Guidelines on Professional Conduct provide a framework for computer scientists to use when exercising their judgment in the practice of their profession. The Guidelines are not intended to be, nor should they be interpreted as, a full or exhaustive list of the situations and circumstances which may comprise compliance and non compliance with the Code of Professional Conduct.
 
+ACS Code of Professional Conduct (the Code) identifies following six core ethical values and the associated requirements for professional conduct. The Society requires its members to abide by these values, and act with responsibility and integrity in all of their professional dealings. [Read the details of ACS Code of Conduct here.](https://www.acs.org.au/content/dam/acs/rules-and-regulations/Code-of-Professional-Conduct_v2.1.pdf) 
+
+In summary and in the course of computing practice, you must consider:
+
+1. The Primacy of the Public Interest. 
+
+You will place the interests of the public above those of personal, business or sectional interests. 
+
+2. The Enhancement of Quality of Life. 
+
+You will strive to enhance the quality of life of those affected by your work. 
+
+3. Honesty. 
+
+You will be honest in your representation of skills, knowledge, services and products. 
+
+4. Competence.
+
+You will work competently and diligently for your stakeholders. 
+
+5. Professional Development.
+
+You will enhance your own professional development, and that of your staff. 
+
+6. Professionalism.
+
+You will enhance the integrity of the ACS and the respect of its members for each other.
+
+
+# Doing the ethics technique
+In some situations, thinking ethically can be difficult because there is often no right or wrong choice. It is often upto the individuals to exercise their professional judgement as to how best to solve the problem they are dealing with ([Simpson, 2003](https://journal.acs.org.au/index.php/ajis/article/view/159/141)). Although there are numerous ways of analysing ethical issues, in Australia, one that is well published is the "Doing Ethics Technique (DET)". 
+
+DET uses a series of questions to explore the issues the professional is facing and uses the answers to help develop satisfactory outcomes. Although there is no best solution, but by following a systematic guideline such as DET, it is more likely that the outcome will be a good one, even if it may not be the best.
+
+The DET revolves around the resolution of the following questions, taken in this particular order:
+
+1. What is going on?
+2. What are the facts?
+3. What are the issues?
+4. Who is affected?
+This leads to:
+5. What are the ethical issues and implications?
+6. What can be done about it?
+7. What options are there?
+8. Which option is best-and why?
