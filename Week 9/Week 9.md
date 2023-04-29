@@ -33,6 +33,7 @@
 
 # Lesson
 
+Clcik on the link below to go through this week's lesson about presenting.
 
 [Lesson: Ethics](./Lesson 9.md)
 
@@ -89,20 +90,4 @@ Think critically about your own values (individually) when you discuss your ethi
   2. Work on your Group Project.
   3. Work on your Toolkit.
   
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
