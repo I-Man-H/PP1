@@ -60,6 +60,8 @@ More information about SOCOG case can be found [here](https://www.humanrights.go
 
 # DET
 
+The DET revolves around the resolution of the following questions, taken in this particular order:
+
   1. What is going on?
   2. What are the facts?
   3. What are the issues?
