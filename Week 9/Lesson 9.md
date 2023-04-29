@@ -135,5 +135,5 @@ To learn more about ethics in Engineering and Computer Science industry, access 
 * Social aspects of technology and science (Techological determinism)
 * The ethical dilemma we face on AI and autonomous tech, Christine Fox (18:47 mins)
 
-[[Watch the video](https://img.youtube.com/vi/3oE88_6jAwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=3oE88_6jAwc)
+[![Watch the video](https://img.youtube.com/vi/3oE88_6jAwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=3oE88_6jAwc)
 
