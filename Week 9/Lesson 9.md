@@ -105,7 +105,9 @@ The DET revolves around the resolution of the following questions, taken in this
 2. What are the facts?
 3. What are the issues?
 4. Who is affected?
+
 This leads to:
+
 5. What are the ethical issues and implications?
 6. What can be done about it?
 7. What options are there?
