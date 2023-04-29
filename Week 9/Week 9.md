@@ -77,6 +77,12 @@ This leads to:
   8. Which option is best-and why?
 
 
+Submit your answers for DET on Padlet using the links below:
+
+[T03: Click Here](https://anu.padlet.org/u6554505/being-ethical-in-research-s3xfwvzh0mha34c6)
+[T04: Click Here](https://anu.padlet.org/u6554505/being-ethical-in-research-kkc78x465rrlq5zy)
+
+
 # Group Project
 
 Discuss about ethical challenges of your own group project. You can use DET template to map out some of the key ethical challenges of your project (however, you shouldn’t feel constraint using the tool)​
