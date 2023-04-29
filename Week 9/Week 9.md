@@ -34,6 +34,7 @@
 # Lesson
 
 
+[Lesson: Ethics](./Lesson 9.md)
 
 
 After completing the lesson, click on the link below to attempt the quiz:
