@@ -5,6 +5,10 @@
   * Understand ethics question in your own professional practice.
   Understand the questions you should ask yourselves while working especially on controversial projects.
   
+# Quick Pop Quiz
+
+[Click here](https://forms.office.com/Pages/ResponsePage.aspx?id=XHJ941yrJEaa5fBTPkhkNzKg9m-fa9ZDoGsKFaaiOIlUOTRSSEE3WjhXRDJJTDBaSVdMVTdZNUE3MS4u) to attempt the quiz.
+  
 # Group Discussion
 
   1. What is ethics? What comes to your mind when they hear the word ethics?
@@ -23,11 +27,13 @@
 # Why to be Ethical in Research
 
   1. To protect participants/patients/society/resources/researchers.
-  2. To protect Intellectual Property rights.
+  2. To ensure accuracy of scientific knowledge.
+  3. To protect Intellectual Property rights.
 
 
 # Overview
 
+<img width="1063" alt="Screen Shot 2023-05-02 at 11 18 45 pm" src="https://user-images.githubusercontent.com/125527438/235678085-94867d7f-66d6-47e2-ace7-f38250471a4d.png">
 
 
 
