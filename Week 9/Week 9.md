@@ -11,7 +11,7 @@
   
 # Group Discussion
 
-  1. What is ethics? What comes to your mind when they hear the word ethics?
+  1. What is ethics? What comes to your mind when you hear the word ethics?
   2. Give examples of an ethical behaviour.
   3. Why is ethics important in professional practice?
   4. Why is it difficult to be ethical?
