@@ -17,6 +17,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 7. [Week 7](./Week 7/Week 7.md)
 8. [Week 8](./Week 8/Week 8.md)
 9. [Week 9](./Week 9/Week 9.md)
+10. [Week 10](./Week 10/Week 10.md)
 
 ## Assessments
 1. 4 Career Episode Pieces (35%)
