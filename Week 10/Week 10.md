@@ -8,7 +8,7 @@
 
 # Group Discussion 1
 
-Form 5 random groups of 4 by using [this link](https://www.classtools.net/random-group-generator/202305_hU4VQC).
+Form 5 random groups of 4.
 
 1. What are the key characteristics of a successful teamwork?
 2. Why are these characteristics important?
@@ -16,6 +16,8 @@ Form 5 random groups of 4 by using [this link](https://www.classtools.net/random
 4. Share your ideas with the whole class.
 
 # Group Discussion 2
+
+Form another 5 random groups of 4.
 
 1. Discuss about the leadership in a group.
 2. How the quality of ‘leadership’ affect the way people work/interact in a team?
@@ -52,14 +54,14 @@ In your group project team, discuss 5 dimensions of teamwork:
 5. Interdependence (10 mins)
   * If each member’s role and work complements others?
   * If Individual progress is dependent on others?
-  * If skills, knowledge, abilities of members are all valued and utilized​
+  * If skills, knowledge, abilities of members are all valued and utilized.
 
-Create a Word document in OneDrive and answer these questions as you discuss.​
+Create a Word document in OneDrive and answer these questions as you discuss.
 
 
 # ADDRESSING PROBLEMS
 
-n your group project team, discuss how you can tackle these problems in teamwork (15 mins)
+In your group project team, discuss how you can tackle these problems in teamwork (15 mins)
 
 Share your ideas in the same Word document on OneDrive.
 
@@ -70,12 +72,14 @@ Share your ideas in the same Word document on OneDrive.
 * Each group will present for **10 minutes** followed by a **2-minute** Q/A.
 * **All group members** should be presenting.
 * Contribution in the **Q/A** is **compulsory**.
-* Share your PPT/PDF by **Tuesday** 11 PM.
+* Share your PPT/PDF by **Wednesday** 11 PM.
+* Submit your presentation slides on [Wattle](https://wattlecourses.anu.edu.au/mod/assign/view.php?id=2887859)
 
 
 # To Do List
 * Work on your Group Project.
-* Work on your Career Episode Piece 3.
+* Submit your Career Episode Piece 3.
 * Work on your Toolkit.
 * Practice for Group Presentation (Due Week 11).
-* Send me your PPT/PDF by Tuesday 11PM
+* Send me your PPT/PDF by Wednesday 11PM.
+* Submit your presentation slides on [Wattle](https://wattlecourses.anu.edu.au/mod/assign/view.php?id=2887859)
