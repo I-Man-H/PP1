@@ -8,6 +8,8 @@
 
 # Group Discussion 1
 
+Form 5 random groups of 4 by using [this link](https://www.classtools.net/random-group-generator/202305_hU4VQC).
+
 1. What are the key characteristics of a successful teamwork?
 2. Why are these characteristics important?
 3. Find one thing about teamwork that you all collectively agree is the most important aspect of teamwork.
