@@ -72,7 +72,7 @@ Share your ideas in the same Word document on OneDrive.
 * Each group will present for **10 minutes** followed by a **2-minute** Q/A.
 * **All group members** should be presenting.
 * Contribution in the **Q/A** is **compulsory**.
-* Share your PPT/PDF by **Wednesday** 11 PM.
+* Share your PPT/PDF by **Tuesday** 11 PM.
 * Submit your presentation slides on [Wattle](https://wattlecourses.anu.edu.au/mod/assign/view.php?id=2887859)
 
 
@@ -81,5 +81,5 @@ Share your ideas in the same Word document on OneDrive.
 * Submit your Career Episode Piece 3.
 * Work on your Toolkit.
 * Practice for Group Presentation (Due Week 11).
-* Send me your PPT/PDF by Wednesday 11PM.
+* Send me your PPT/PDF by Tuesday 11PM.
 * Submit your presentation slides on [Wattle](https://wattlecourses.anu.edu.au/mod/assign/view.php?id=2887859)
