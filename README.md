@@ -37,7 +37,7 @@ Weekly course contents, activities and resources will be uploaded under its corr
 6. Toolkit Presentation: 24 May 2023 - During Tutorial on Week 12  🔲
 7. Career Episode Piece 4: 26 May 2023 - 23:00  🔲
 8. Group Project Report: 26 May 2023 - 23:00  🔲
-9. Toolkit Portfolio: 29 May 2023 - 23:00   🔲
+9. Toolkit Portfolio: 30 May 2023 - 23:00   🔲
 10. Reflection and Peer Assessment: 30 May 2023  🔲
 
 ## Marking Rubric
