@@ -1,3 +1,6 @@
+![photo_2023-05-23 22 29 19](https://github.com/I-Man-H/PP1/assets/125527438/0e533850-e544-4532-a831-ec5df2b26466)
+
+
 # Week 12: MARKETING YOURSELF EFFECTIVELY
 
 # A Quick Recap
