@@ -33,9 +33,9 @@ Weekly course contents, activities and resources will be uploaded under its corr
 1. Career Episode Checklist: 10 March 2023 - 23:00 ✔️
 2. Career Episode Piece 1: 17 March 2023 - 23:00 ✔️
 3. Career Episode Piece 2: 05 April 2023 - 23:00  ✔️
-4. Career Episode Piece 3: 12 May 2023 - 23:00  🔲
-5. Group Presentation: 17 May 2023 - During Tutorial on Week 11   🔲
-6. Toolkit Presentation: 24 May 2023 - During Tutorial on Week 12  🔲
+4. Career Episode Piece 3: 12 May 2023 - 23:00  ✔️
+5. Group Presentation: 17 May 2023 - During Tutorial on Week 11   ✔️
+6. Toolkit Presentation: 24 May 2023 - During Tutorial on Week 12  ✔️
 7. Career Episode Piece 4: 26 May 2023 - 23:00  🔲
 8. Group Project Report: 26 May 2023 - 23:00  🔲
 9. Toolkit Portfolio: 30 May 2023 - 23:00   🔲
